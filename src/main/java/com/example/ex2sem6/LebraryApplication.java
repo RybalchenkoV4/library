@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LibraryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ex2sem6Application.class, args);
+		SpringApplication.run(LibraryApplication.class, args);
 	}
 
 }
